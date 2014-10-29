@@ -4,10 +4,10 @@
   "description": "represents the browsers viewport in a more useful way",
   "dependencies": {
     "emitter": "jkroso/Emitter#0.10.0",
-    "event": "component/event#0.1.2"
+    "event": "component/event#0.1.4"
   },
   "devDependencies": {
-    "serve": "jkroso/serve#1.5.1"
+
   },
   "repository": "git://github.com/jkroso/viewport.git",
   "bugs": "https://github.com/jkroso/viewport/issues",
